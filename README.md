@@ -3,11 +3,10 @@
 </p>
 <br>
 
-# 👋 Hi, I'm Naeem Mansuri
-
-### 💼 Software Technical Writer @ Cognizant
-
+<p align="center">
+💼 Software Technical Writer @ Cognizant <br>
 📍 Hyderabad, India
+</p>
 
 ---
 
