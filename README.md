@@ -2,20 +2,17 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Naeem Mansuri</h1>
+<h2 align="center">🚀 I turn complex systems into documentation people actually understand</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Technical+Writer;API+Documentation;User+Guides+%26+SOPs;Production+Documentation+%26+Version+Control" />
+  <b>Software Technical Writer @ Cognizant</b> <br/>
+  📍 Hyderabad, India
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=User+Focused+Documentation;API+Documentation;SOPs+%26+Workflow+Docs;Production+Documentation+%26+Version+Control" />
+</p>
 
-<p align="center">
-🚀 Technical Writer focused on clarity, usability, and real-world documentation  
-</p>
-<p align="center">
-  <b>💼 Software Technical Writer @ Cognizant</b> &nbsp;&nbsp;•&nbsp;&nbsp; 📍 Hyderabad, India
-</p>
 ---
 
 <p align="center">
@@ -28,34 +25,54 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansurinaeem22&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansurinaeem22&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansurinaeem22&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansurinaeem22&layout=compact&hide_border=true&langs_count=6" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansurinaeem22&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansurinaeem22&layout=compact&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 🚀 What I Deliver
-I create documentation that reduces user confusion and improves product usability.
+## 🏭 Production Experience
+
+- 📦 Writing documentation used in real production environments  
+- 🔄 Managing version-controlled documentation (Git workflows)  
+- 🧩 Working closely with developers, QA, and product teams  
+- 📚 Creating structured content using DITA & enterprise tools  
+- 🚀 Delivering documentation that supports real users  
+
+> I don’t just write docs — I ship documentation that works in production
 
 ---
 
-## 🎯 Core Expertise
+## 💼 What I Do
+
 - 📘 User Guides & Product Documentation  
-- 🔗 API Documentation (REST, JSON, Endpoints)  
-- 📄 SOPs & Process Documentation  
+- 🔗 API Documentation (REST, JSON, endpoints)  
+- 📄 SOPs & Workflow Documentation  
 - ⚙️ Production Documentation & Version Control  
 
 ---
 
-## 💡 What I Do Best
-- Simplify complex systems into clear, user-friendly content  
-- Improve onboarding experience through structured documentation  
-- Reduce user confusion with real-world examples  
-- Design documentation for usability, not just information  
+## 🚀 What I Deliver
+
+I create documentation that:
+
+- Reduces user confusion  
+- Improves onboarding experience  
+- Enhances product usability  
+- Supports real-world scenarios  
+
+---
+
+## 💡 My Approach
+
+- Documentation should reduce support dependency  
+- Content should be structured, not just written  
+- Real-world examples > theoretical explanations  
+- Clarity and usability come first  
 
 ---
 
@@ -79,46 +96,64 @@ I create documentation that reduces user confusion and improves product usabilit
 
 # 🚀 Featured Project
 
-## 💳 Fintech App Documentation ⭐
+## 💳 Digital Payments Documentation ⭐
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mansurinaeem22/fintech-app-documentation/main/flow.png"/>
+  <img src="https://raw.githubusercontent.com/mansurinaeem22/fintech-app-documentation/main/flow.png" width="100%"/>
 </p>
 
-📌 End-to-end documentation for a digital payments system  
-📌 Covers transaction lifecycle, API flows, and error handling  
+### 💡 Problem
+Users struggled to understand transaction workflows and system interactions  
 
-### 🔥 Highlights
-- Designed complete transaction lifecycle documentation  
-- Integrated API + user guide structure  
-- Added real-world failure scenarios  
+### ⚙️ What I Built
+- End-to-end transaction lifecycle documentation  
+- API + user guide integration  
+- Workflow simplification for better understanding  
+- Real-world error handling scenarios  
+
+### 📈 Impact
+- Improved onboarding clarity  
+- Reduced confusion in transactions  
+- Created scalable documentation structure  
 
 👉 **[View Full Project](https://github.com/mansurinaeem22/fintech-app-documentation)**
 
 ---
 
-## 📂 Other Projects
+# 📂 Projects
 
-### 📘 User Guide
+## 📘 User Guide
+<p align="center">
 Clear, structured documentation focused on usability  
+</p>
+
 👉 https://github.com/mansurinaeem22/technical-writing-portfolio  
 
 ---
 
-### 🔗 API Documentation
+## 🔗 API Documentation
+<p align="center">
 Detailed API references with request/response examples  
+</p>
+
 👉 https://github.com/mansurinaeem22/api-documentation-sample  
 
 ---
 
-### 📄 SOP Documentation
+## 📄 SOP Documentation
+<p align="center">
 Step-by-step operational workflows  
+</p>
+
 👉 https://github.com/mansurinaeem22/sop-documentation  
 
 ---
 
-### 📰 Release Notes
+## 📰 Release Notes
+<p align="center">
 Structured communication of product updates and improvements  
+</p>
+
 👉 https://github.com/mansurinaeem22/release-notes-sample  
 
 ---
