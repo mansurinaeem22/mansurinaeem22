@@ -1,9 +1,24 @@
-# Hi, I'm Naeem 👋
+# 👋 Hi, I'm Naeem Mansuri
 
-💼 Software Technical Writer @ Cognizant
-✍️ I simplify complex systems into clear, user-friendly documentation
+### 💼 Software Technical Writer @ Cognizant
 
-🚀 Portfolio focused on real-world documentation (User Guides, APIs, SOPs, Fintech systems)
+📍 Hyderabad, India
+
+---
+
+🚀 **I specialize in transforming complex systems into clear, user-friendly documentation**
+
+📌 Focus Areas:
+
+* 📘 User Guides
+* 🔌 API Documentation
+* 📋 SOPs
+* 💳 Fintech Documentation
+
+---
+
+✨ **Portfolio built with real-world documentation scenarios and structured writing principles**
+
 
 ---
 
