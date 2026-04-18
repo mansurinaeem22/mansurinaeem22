@@ -9,6 +9,9 @@
 <p align="center">
 🚀 Technical Writer focused on clarity, usability, and real-world documentation
 </p>
+<p align="center">
+💼 Software Technical Writer @ Cognizant • 📍 Hyderabad, India
+</p>
 
 ---
 
