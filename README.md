@@ -17,7 +17,6 @@
 ### 🚀 What I Deliver
 I create documentation that reduces user confusion and improves product usability.
 
----
 
 ### 🎯 Core Expertise
 - 📘 User Guides & Product Documentation  
@@ -25,7 +24,6 @@ I create documentation that reduces user confusion and improves product usabilit
 - 📄 SOPs & Process Documentation  
 - 💳 Fintech & Transaction Workflows  
 
----
 
 ### 💡 What I Do Best
 - Simplify complex systems into clear, user-friendly content  
