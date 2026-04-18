@@ -12,14 +12,26 @@
 💼 Software Technical Writer @ Cognizant • 📍 Hyderabad, India
 </p>
 
+---
 
-🚀 **I create documentation that reduces user confusion and improves product usability**
+### 🚀 What I Deliver
+I create documentation that reduces user confusion and improves product usability.
+
+---
 
 ### 🎯 Core Expertise
 - 📘 User Guides & Product Documentation  
 - 🔗 API Documentation (REST, JSON, Endpoints)  
 - 📄 SOPs & Process Documentation  
 - 💳 Fintech & Transaction Workflows  
+
+---
+
+### 💡 What I Do Best
+- Simplify complex systems into clear, user-friendly content  
+- Improve onboarding experience through structured documentation  
+- Reduce user confusion with real-world examples  
+- Design documentation for usability, not just information    
 
 * ## 🛠️ Tools & Technologies
 
