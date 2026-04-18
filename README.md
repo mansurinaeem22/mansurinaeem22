@@ -3,11 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Naeem Mansuri</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Technical%20Writing-Advanced-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20Documentation-Professional-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fintech-Documentation-orange?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Technical+Writer;API+Documentation;User+Guides+%26+SOPs;Production+Documentation+%26+Version+Control" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Technical+Writer;API+Documentation;Fintech+Workflows;Clear+%26+User-Friendly+Documentation" />
