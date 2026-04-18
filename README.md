@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%"/>
 </p>
 <br>
-
+<h1 align="center">👋 Hi, I'm Naeem Mansuri</h1>
 <p align="center">
 💼 Software Technical Writer @ Cognizant <br>
 📍 Hyderabad, India
