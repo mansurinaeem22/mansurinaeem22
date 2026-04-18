@@ -1,7 +1,9 @@
-# Hi, I'm Naeem 👋
+Hi, I'm Naeem 👋
 
 💼 Software Technical Writer @ Cognizant
 ✍️ I simplify complex systems into clear, user-friendly documentation
+
+🚀 Portfolio focused on real-world documentation (User Guides, APIs, SOPs, Fintech systems)
 
 ---
 
