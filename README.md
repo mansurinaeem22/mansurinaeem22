@@ -2,118 +2,180 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-<br><br>
-
-<h2 align="center">I simplify complex systems into clear, usable documentation.</h2>
+<h2 align="center">🚀 I turn complex systems into documentation people actually understand</h2>
 
 <p align="center">
-Software Technical Writer @ Cognizant  
-Hyderabad, India
+  <b>Software Technical Writer @ Cognizant</b> <br/>
+  📍 Hyderabad, India
 </p>
-
-<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=User+Documentation;API+Documentation;SOPs+%26+Workflows;Production+Documentation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=User+Focused+Documentation;API+Documentation;SOPs+%26+Workflow+Docs;Production+Documentation+%26+Version+Control" />
 </p>
 
-<br><br>
-
 ---
-
-## Work
-
-I design documentation that helps users understand systems quickly and use them with confidence.
-
-<br>
-
----
-
-## Experience
-
-- Documentation used in real production environments  
-- Version-controlled workflows using Git  
-- Collaboration with developers, QA, and product teams  
-- Structured content using DITA  
-- Focus on clarity, usability, and real-world use  
-
-<br>
-
----
-
-## Focus
-
-- User guides and product documentation  
-- API documentation (REST, JSON)  
-- SOPs and workflow documentation  
-- Production documentation systems  
-
-<br>
-
----
-
-## Selected Work
-
-### Digital Payments Documentation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mansurinaeem22/fintech-app-documentation/main/flow.png" width="88%"/>
+  <img src="https://img.shields.io/badge/Technical%20Writing-Professional-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Documentation-Advanced-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Production%20Docs-Real%20World-orange?style=for-the-badge"/>
 </p>
 
-Clear, structured documentation for a digital payments system covering workflows, APIs, and real-world scenarios.
+---
 
-→ https://github.com/mansurinaeem22/fintech-app-documentation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansurinaeem22&theme=default&hide_border=true"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansurinaeem22&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansurinaeem22&layout=compact&hide_border=true" width="40%" />
+</p>
 
 ---
 
-### Other Projects
+## 🏭 Production Experience
 
-User Guide  
-→ https://github.com/mansurinaeem22/technical-writing-portfolio  
+- 📦 Writing documentation used in real production environments  
+- 🔄 Managing version-controlled documentation (Git workflows)  
+- 🧩 Working closely with developers, QA, and product teams  
+- 📚 Creating structured content using DITA & enterprise tools  
+- 🚀 Delivering documentation that supports real users  
 
-<br>
-
-API Documentation  
-→ https://github.com/mansurinaeem22/api-documentation-sample  
-
-<br>
-
-SOP Documentation  
-→ https://github.com/mansurinaeem22/sop-documentation  
-
-<br>
-
-Release Notes  
-→ https://github.com/mansurinaeem22/release-notes-sample  
-
-<br>
+> I don’t just write docs — I ship documentation that works in production
 
 ---
 
-## Tools
+## 💼 What I Do
 
-DITA · Markdown · Git · API Documentation · UX Writing
-
-<br>
-
----
-
-## Contact
-
-LinkedIn  
-→ https://www.linkedin.com/in/naeem-mansuri-01a487203/  
-
-<br>
-
-Email  
-→ mansurinaeem375@gmail.com  
-
-<br>
+- 📘 User Guides & Product Documentation  
+- 🔗 API Documentation (REST, JSON, endpoints)  
+- 📄 SOPs & Workflow Documentation  
+- ⚙️ Production Documentation & Version Control  
 
 ---
 
-## Goal
+## 🚀 What I Deliver
 
-To create documentation that reduces complexity and improves user experience.
+I create documentation that:
+
+- Reduces user confusion  
+- Improves onboarding experience  
+- Enhances product usability  
+- Supports real-world scenarios  
+
+---
+
+## 💡 My Approach
+
+- Documentation should reduce support dependency  
+- Content should be structured, not just written  
+- Real-world examples > theoretical explanations  
+- Clarity and usability come first  
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+![DITA](https://img.shields.io/badge/DITA-Documentation-blue)
+![Markdown](https://img.shields.io/badge/Markdown-Writing-black)
+![API Docs](https://img.shields.io/badge/API-Documentation-green)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-lightgrey)
+![UX Writing](https://img.shields.io/badge/UX-Writing-orange)
+
+</p>
+
+---
+
+✨ **Portfolio built with real-world documentation scenarios and structured writing principles**
+
+---
+
+# 🚀 Featured Project
+
+## 💳 Digital Payments Documentation ⭐
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mansurinaeem22/fintech-app-documentation/main/flow.png" width="100%"/>
+</p>
+
+### 💡 Problem
+Users struggled to understand transaction workflows and system interactions  
+
+### ⚙️ What I Built
+- End-to-end transaction lifecycle documentation  
+- API + user guide integration  
+- Workflow simplification for better understanding  
+- Real-world error handling scenarios  
+
+### 📈 Impact
+- Improved onboarding clarity  
+- Reduced confusion in transactions  
+- Created scalable documentation structure  
+
+👉 **[View Full Project](https://github.com/mansurinaeem22/fintech-app-documentation)**
+
+---
+
+# 📂 Projects
+
+## 📘 User Guide
+<p align="center">
+Clear, structured documentation focused on usability  
+</p>
+
+👉 https://github.com/mansurinaeem22/technical-writing-portfolio  
+
+---
+
+## 🔗 API Documentation
+<p align="center">
+Detailed API references with request/response examples  
+</p>
+
+👉 https://github.com/mansurinaeem22/api-documentation-sample  
+
+---
+
+## 📄 SOP Documentation
+<p align="center">
+Step-by-step operational workflows  
+</p>
+
+👉 https://github.com/mansurinaeem22/sop-documentation  
+
+---
+
+## 📰 Release Notes
+<p align="center">
+Structured communication of product updates and improvements  
+</p>
+
+👉 https://github.com/mansurinaeem22/release-notes-sample  
+
+---
+
+## 🧠 Skills
+
+- Technical Documentation  
+- API Documentation  
+- DITA  
+- Markdown  
+- UX Writing  
+- Version Control (Git & GitHub)  
+
+---
+
+## 📫 Contact
+
+📌 LinkedIn: https://www.linkedin.com/in/naeem-mansuri-01a487203/  
+📧 Email: mansurinaeem375@gmail.com  
+
+---
+
+## 🎯 Goal
+
+To create documentation that improves user experience and reduces complexity.
