@@ -6,7 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Technical+Writer;API+Documentation;User+Guides+%26+SOPs;Production+Documentation+%26+Version+Control" />
 
 <p align="center">
-🚀 Technical Writer focused on clarity, usability, and real-world documentation
+  Technical Writer focused on clarity...
+  ...
+  <img src="badge1"/>
+  <img src="badge2"/>
 </p>
 
 <p align="center">
