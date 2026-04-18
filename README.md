@@ -10,7 +10,7 @@
 
 ---
 
-🚀 **I specialize in transforming complex systems into clear, user-friendly documentation**
+🚀 **I create documentation that reduces user confusion and improves product usability**
 
 📌 Focus Areas:
 
