@@ -10,7 +10,8 @@
 - 📘 User Guide → https://github.com/mansurinaeem22/technical-writing-portfolio  
 - 🔌 API Documentation → https://github.com/mansurinaeem22/api-documentation-sample  
 - 📰 Release Notes → https://github.com/mansurinaeem22/release-notes-sample  
-- 📋 SOP Documentation → https://github.com/mansurinaeem22/sop-documentation  
+- 📋 SOP Documentation → https://github.com/mansurinaeem22/sop-documentation
+- 💳 Fintech App Documentation → https://github.com/mansurinaeem22/fintech-app-documentation   
 
 ---
 
