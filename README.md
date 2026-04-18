@@ -7,11 +7,39 @@
 
 ## 🚀 My Portfolio
 
-- 📘 User Guide → https://github.com/mansurinaeem22/technical-writing-portfolio  
-- 🔌 API Documentation → https://github.com/mansurinaeem22/api-documentation-sample  
-- 📰 Release Notes → https://github.com/mansurinaeem22/release-notes-sample  
-- 📋 SOP Documentation → https://github.com/mansurinaeem22/sop-documentation
-- 💳 Fintech App Documentation → https://github.com/mansurinaeem22/fintech-app-documentation   
+### 💳 Fintech App Documentation ⭐ (Featured Project)
+
+End-to-end documentation for a digital payments app including user workflows and API integration
+👉 https://github.com/mansurinaeem22/fintech-app-documentation
+
+---
+
+### 📘 User Guide
+
+Structured documentation demonstrating clear instructions and usability-focused writing
+👉 https://github.com/mansurinaeem22/technical-writing-portfolio
+
+---
+
+### 🔌 API Documentation
+
+Sample API documentation with request/response and error handling
+👉 https://github.com/mansurinaeem22/api-documentation-sample
+
+---
+
+### 📋 SOP Documentation
+
+Step-by-step process documentation for operational workflows
+👉 https://github.com/mansurinaeem22/sop-documentation
+
+---
+
+### 📰 Release Notes
+
+Structured communication of product updates and improvements
+👉 https://github.com/mansurinaeem22/release-notes-sample
+   
 
 ---
 
