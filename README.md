@@ -7,10 +7,10 @@
 
 ## 🚀 My Portfolio
 
-* 📘 User Guide → (add your repo link)
-* 🔌 API Documentation → (add your repo link)
-* 📰 Release Notes → (add your repo link)
-* 📋 SOP Documentation → (add your repo link)
+- 📘 User Guide → https://github.com/mansurinaeem22/technical-writing-portfolio  
+- 🔌 API Documentation → https://github.com/mansurinaeem22/api-documentation-sample  
+- 📰 Release Notes → https://github.com/mansurinaeem22/release-notes-sample  
+- 📋 SOP Documentation → https://github.com/mansurinaeem22/sop-documentation  
 
 ---
 
