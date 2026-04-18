@@ -15,6 +15,19 @@
 * 📋 SOPs
 * 💳 Fintech Documentation
 
+* ## 🛠️ Tools & Technologies
+
+<p align="center">
+
+![DITA](https://img.shields.io/badge/DITA-Documentation-blue)
+![Markdown](https://img.shields.io/badge/Markdown-Writing-black)
+![API Docs](https://img.shields.io/badge/API-Documentation-green)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgrey)
+![UX Writing](https://img.shields.io/badge/UX-Writing-orange)
+
+</p>
+
+
 ---
 
 ✨ **Portfolio built with real-world documentation scenarios and structured writing principles**
