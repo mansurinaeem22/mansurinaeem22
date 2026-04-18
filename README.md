@@ -81,7 +81,7 @@ I create documentation that reduces user confusion and improves product usabilit
 ## 💳 Fintech App Documentation ⭐
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mansurinaeem22/fintech-app-documentation/main/assets/flow.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mansurinaeem22/fintech-app-documentation/main/flow.png"/>
 </p>
 
 📌 End-to-end documentation for a digital payments system  
