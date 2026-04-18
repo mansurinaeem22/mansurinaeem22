@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-<h2 align="center">🚀 I turn complex systems into documentation people actually understand</h2>
+<h2 align="center"> I turn complex systems into documentation people actually understand</h2>
 
 <p align="center">
   <b>Software Technical Writer @ Cognizant</b> <br/>
