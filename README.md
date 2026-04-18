@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" height="220"/>
+  <img src="banner.png" width="100%"/>
 </p>
 
 # 👋 Hi, I'm Naeem Mansuri
