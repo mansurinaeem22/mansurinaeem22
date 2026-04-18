@@ -2,27 +2,24 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-<br>
-
 <h1 align="center">👋 Hi, I'm Naeem Mansuri</h1>
 
 <p align="center">
 🚀 Technical Writer focused on clarity, usability, and real-world documentation
 </p>
+
 <p align="center">
 💼 Software Technical Writer @ Cognizant • 📍 Hyderabad, India
 </p>
 
----
 
 🚀 **I create documentation that reduces user confusion and improves product usability**
 
-📌 Focus Areas:
-
-* 📘 User Guides
-* 🔌 API Documentation
-* 📋 SOPs
-* 💳 Fintech Documentation
+### 🎯 Core Expertise
+- 📘 User Guides & Product Documentation  
+- 🔗 API Documentation (REST, JSON, Endpoints)  
+- 📄 SOPs & Process Documentation  
+- 💳 Fintech & Transaction Workflows  
 
 * ## 🛠️ Tools & Technologies
 
