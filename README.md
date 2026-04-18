@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-<h2 align="center">🚀 I turn complex systems into documentation people actually understand</h2>
+<h2 align="center">🚀 I turn complex systems into clear, usable documentation</h2>
 
 <p align="center">
   <b>Software Technical Writer @ Cognizant</b> <br/>
@@ -10,38 +10,38 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=User+Focused+Documentation;API+Documentation;SOPs+%26+Workflow+Docs;Production+Documentation+%26+Version+Control" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=User+Focused+Documentation;API+Documentation;SOPs+%26+Workflow+Docs;Production+Documentation+%26+Version+Control" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Technical%20Writing-Professional-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20Documentation-Advanced-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Production%20Docs-Real%20World-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Technical%20Writing-Professional-0A192F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Documentation-Advanced-0A192F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-0A192F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Production-Real%20World-0A192F?style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansurinaeem22&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansurinaeem22&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansurinaeem22&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansurinaeem22&layout=compact&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansurinaeem22&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansurinaeem22&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
 ## 🏭 Production Experience
 
-- 📦 Writing documentation used in real production environments  
-- 🔄 Managing version-controlled documentation (Git workflows)  
-- 🧩 Working closely with developers, QA, and product teams  
+- 📦 Writing documentation used in real production systems  
+- 🔄 Managing version-controlled docs using Git workflows  
+- 🧩 Collaborating with developers, QA, and product teams  
 - 📚 Creating structured content using DITA & enterprise tools  
-- 🚀 Delivering documentation that supports real users  
+- 🚀 Delivering documentation used by actual users  
 
 > I don’t just write docs — I ship documentation that works in production
 
@@ -58,21 +58,19 @@
 
 ## 🚀 What I Deliver
 
-I create documentation that:
-
-- Reduces user confusion  
-- Improves onboarding experience  
-- Enhances product usability  
-- Supports real-world scenarios  
+- Reduce user confusion  
+- Improve onboarding experience  
+- Enhance product usability  
+- Support real-world use cases  
 
 ---
 
 ## 💡 My Approach
 
-- Documentation should reduce support dependency  
-- Content should be structured, not just written  
-- Real-world examples > theoretical explanations  
-- Clarity and usability come first  
+- Documentation should reduce support tickets  
+- Structure matters more than volume  
+- Real-world scenarios > theory  
+- Clarity always wins  
 
 ---
 
@@ -80,11 +78,11 @@ I create documentation that:
 
 <p align="center">
 
-![DITA](https://img.shields.io/badge/DITA-Documentation-blue)
-![Markdown](https://img.shields.io/badge/Markdown-Writing-black)
-![API Docs](https://img.shields.io/badge/API-Documentation-green)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-lightgrey)
-![UX Writing](https://img.shields.io/badge/UX-Writing-orange)
+![DITA](https://img.shields.io/badge/DITA-0A192F?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-0A192F?style=for-the-badge)
+![API Docs](https://img.shields.io/badge/API-0A192F?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge)
+![UX Writing](https://img.shields.io/badge/UX-0A192F?style=for-the-badge)
 
 </p>
 
@@ -103,18 +101,18 @@ I create documentation that:
 </p>
 
 ### 💡 Problem
-Users struggled to understand transaction workflows and system interactions  
+Users struggled to understand transaction workflows  
 
 ### ⚙️ What I Built
 - End-to-end transaction lifecycle documentation  
 - API + user guide integration  
-- Workflow simplification for better understanding  
-- Real-world error handling scenarios  
+- Workflow simplification  
+- Error handling scenarios  
 
 ### 📈 Impact
 - Improved onboarding clarity  
-- Reduced confusion in transactions  
-- Created scalable documentation structure  
+- Reduced confusion  
+- Scalable documentation system  
 
 👉 **[View Full Project](https://github.com/mansurinaeem22/fintech-app-documentation)**
 
@@ -122,50 +120,23 @@ Users struggled to understand transaction workflows and system interactions
 
 # 📂 Projects
 
-## 📘 User Guide
-<p align="center">
-Clear, structured documentation focused on usability  
-</p>
-
+## 📘 User Guide  
 👉 https://github.com/mansurinaeem22/technical-writing-portfolio  
 
 ---
 
-## 🔗 API Documentation
-<p align="center">
-Detailed API references with request/response examples  
-</p>
-
+## 🔗 API Documentation  
 👉 https://github.com/mansurinaeem22/api-documentation-sample  
 
 ---
 
-## 📄 SOP Documentation
-<p align="center">
-Step-by-step operational workflows  
-</p>
-
+## 📄 SOP Documentation  
 👉 https://github.com/mansurinaeem22/sop-documentation  
 
 ---
 
-## 📰 Release Notes
-<p align="center">
-Structured communication of product updates and improvements  
-</p>
-
+## 📰 Release Notes  
 👉 https://github.com/mansurinaeem22/release-notes-sample  
-
----
-
-## 🧠 Skills
-
-- Technical Documentation  
-- API Documentation  
-- DITA  
-- Markdown  
-- UX Writing  
-- Version Control (Git & GitHub)  
 
 ---
 
