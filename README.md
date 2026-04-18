@@ -16,7 +16,12 @@
 <p align="center">
 💼 Software Technical Writer @ Cognizant • 📍 Hyderabad, India
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Technical%20Writing-Professional-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Documentation-Advanced-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Production%20Docs-Real%20World-orange?style=for-the-badge"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mansurinaeem22&show_icons=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansurinaeem22&hide_border=true" width="48%" />
