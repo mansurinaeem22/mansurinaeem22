@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Naeem Mansuri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Technical+Writer;API+Documentation+Specialist;Fintech+Documentation+Expert;Simplifying+Complex+Systems+into+Clear+Docs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Technical+Writer;API+Documentation;Fintech+Workflows;Clear+%26+User-Friendly+Documentation" />
 </p>
 
 <p align="center">
