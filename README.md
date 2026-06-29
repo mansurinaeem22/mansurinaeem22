@@ -35,7 +35,7 @@
 
 ---
 
-## 🏭 Production Experience
+## Experience
 
 - 📦 Writing documentation used in real production environments  
 - 🔄 Managing version-controlled documentation (Git workflows)  
