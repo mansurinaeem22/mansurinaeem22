@@ -2,11 +2,11 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-<h2 align="center">🚀 I turn complex systems into documentation people actually understand</h2>
+<h2 align="center">I turn complex systems into documentation people actually understand</h2>
 
 <p align="center">
-  <b>Software Technical Writer @ Cognizant</b> <br/>
-  📍 Hyderabad, India
+  <b>Software Technical Writer | Technical Author</b><br/>
+  Hyderabad, India
 </p>
 
 <p align="center">
@@ -37,46 +37,46 @@
 
 ## Experience
 
-- 📦 Writing documentation used in real production environments  
-- 🔄 Managing version-controlled documentation (Git workflows)  
-- 🧩 Working closely with developers, QA, and product teams  
-- 📚 Creating structured content using DITA & enterprise tools  
-- 🚀 Delivering documentation that supports real users  
+- Writing documentation used in real production environments
+- Managing version-controlled documentation using Git workflows
+- Working closely with developers, QA, and product teams
+- Creating structured content using DITA and enterprise tools
+- Delivering documentation that supports real users
 
-> I don’t just write docs — I ship documentation that works in production
-
----
-
-## 💼 What I Do
-
-- 📘 User Guides & Product Documentation  
-- 🔗 API Documentation (REST, JSON, endpoints)  
-- 📄 SOPs & Workflow Documentation  
-- ⚙️ Production Documentation & Version Control  
+> I don't just write docs — I ship documentation that works in production.
 
 ---
 
-## 🚀 What I Deliver
+## What I Do
+
+- User Guides & Product Documentation
+- API Documentation (REST, JSON, endpoints)
+- SOPs & Workflow Documentation
+- Production Documentation & Version Control
+
+---
+
+## What I Deliver
 
 I create documentation that:
 
-- Reduces user confusion  
-- Improves onboarding experience  
-- Enhances product usability  
-- Supports real-world scenarios  
+- Reduces user confusion
+- Improves onboarding experience
+- Enhances product usability
+- Supports real-world scenarios
 
 ---
 
-## 💡 My Approach
+## My Approach
 
-- Documentation should reduce support dependency  
-- Content should be structured, not just written  
-- Real-world examples > theoretical explanations  
-- Clarity and usability come first  
+- Documentation should reduce support dependency
+- Content should be structured, not just written
+- Real-world examples over theoretical explanations
+- Clarity and usability come first
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
 
@@ -90,92 +90,91 @@ I create documentation that:
 
 ---
 
-✨ **Portfolio built with real-world documentation scenarios and structured writing principles**
+**Portfolio built with real-world documentation scenarios and structured writing principles**
 
 ---
 
-# 🚀 Featured Project
+# Featured Project
 
-## 💳 Digital Payments Documentation ⭐
+## Digital Payments Documentation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mansurinaeem22/fintech-app-documentation/main/flow.png" width="100%"/>
 </p>
 
-### 💡 Problem
-Users struggled to understand transaction workflows and system interactions  
+### Problem
 
-### ⚙️ What I Built
-- End-to-end transaction lifecycle documentation  
-- API + user guide integration  
-- Workflow simplification for better understanding  
-- Real-world error handling scenarios  
+Users struggled to understand transaction workflows and system interactions.
 
-### 📈 Impact
-- Improved onboarding clarity  
-- Reduced confusion in transactions  
-- Created scalable documentation structure  
+### What I Built
 
-👉 **[View Full Project](https://github.com/mansurinaeem22/fintech-app-documentation)**
+- End-to-end transaction lifecycle documentation
+- API and user guide integration
+- Workflow simplification for better understanding
+- Real-world error handling scenarios
 
----
+### Impact
 
-# 📂 Projects
+- Improved onboarding clarity
+- Reduced confusion in transactions
+- Created a scalable documentation structure
 
-## 📘 User Guide
-<p align="center">
-Clear, structured documentation focused on usability  
-</p>
-
-👉 https://github.com/mansurinaeem22/technical-writing-portfolio  
+[View Full Project](https://github.com/mansurinaeem22/fintech-app-documentation)
 
 ---
 
-## 🔗 API Documentation
-<p align="center">
-Detailed API references with request/response examples  
-</p>
+# Projects
 
-👉 https://github.com/mansurinaeem22/api-documentation-sample  
+## User Guide
 
----
+Clear, structured documentation focused on usability.
 
-## 📄 SOP Documentation
-<p align="center">
-Step-by-step operational workflows  
-</p>
-
-👉 https://github.com/mansurinaeem22/sop-documentation  
+[View Project](https://github.com/mansurinaeem22/technical-writing-portfolio)
 
 ---
 
-## 📰 Release Notes
-<p align="center">
-Structured communication of product updates and improvements  
-</p>
+## API Documentation
 
-👉 https://github.com/mansurinaeem22/release-notes-sample  
+Detailed API references with request/response examples.
 
----
-
-## 🧠 Skills
-
-- Technical Documentation  
-- API Documentation  
-- DITA  
-- Markdown  
-- UX Writing  
-- Version Control (Git & GitHub)  
+[View Project](https://github.com/mansurinaeem22/api-documentation-sample)
 
 ---
 
-## 📫 Contact
+## SOP Documentation
 
-📌 LinkedIn: https://www.linkedin.com/in/naeem-mansuri-01a487203/  
-📧 Email: mansurinaeem375@gmail.com  
+Step-by-step operational workflows.
+
+[View Project](https://github.com/mansurinaeem22/sop-documentation)
 
 ---
 
-## 🎯 Goal
+## Release Notes
+
+Structured communication of product updates and improvements.
+
+[View Project](https://github.com/mansurinaeem22/release-notes-sample)
+
+---
+
+## Skills
+
+- Technical Documentation
+- API Documentation
+- DITA
+- Markdown
+- UX Writing
+- Version Control (Git & GitHub)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/naeem-mansuri-01a487203/  
+Email: mansurinaeem375@gmail.com
+
+---
+
+## Goal
 
 To create documentation that improves user experience and reduces complexity.
